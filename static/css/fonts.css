@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'GORE';
+    src: url('/fonts/GOREHeadline-Light.woff2') format('woff2'),
+        url('/fonts/GOREHeadline-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GORE';
+    src: url('/fonts/GOREFabricsHeadline.woff2') format('woff2'),
+        url('/fonts/GOREFabricsHeadline.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+body{
+    font-family: 'GORE';
+}
+
